@@ -1,0 +1,3 @@
+# SesAura
+
+SesAura is a Raspberry Pi–based smart acoustic alert system designed to assist hearing-impaired individuals by detecting important household sounds in real time. Using machine learning and audio classification, the system identifies events such as doorbells, baby cries, fire alarms, glass breaking, and human screams, then delivers instant mobile notifications, vibration alerts, and visual LED indicators. The system also includes a speech-to-text module that converts spoken communication into readable text for the user. By combining accessibility, embedded systems, artificial intelligence, and multimodal alerts, SesAura enhances home safety and situational awareness.
